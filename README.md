@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Serhat. :blush:
+<font color="red">Coffee :coffee: is how I keep up with `< code />` </font>
 
-<!--
-**serhatgundogdu/serhatgundogdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ./contact
 
-Here are some ideas to get you started:
+[<img  width="22" style="margin-right: 10px" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
+[<img  width="22" style="margin-right: 10px" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
+[<img  width="22" style="margin-right: 10px" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br /><br />
+[My Portfolio](https://serhatgundogdu.github.io)
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatgundogdu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[instagram]: https://www.instagram.com/serhatgyndogdy/
+[twitter]: https://twitter.com/srhatgndg
+[linkedin]: https://www.linkedin.com/in/serhat-gundogdu/
+
