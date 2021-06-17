@@ -8,7 +8,7 @@
 [<img  width="22" style="margin-right: 10px" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
 <br /><br />
-[My Portfolio](https://serhatgundogdu.github.io)
+[My Portfolio](https://serhatgundogdu.com.tr)
 
 <br />
 <br />
