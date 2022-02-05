@@ -19,3 +19,8 @@
 [twitter]: https://twitter.com/srhatgndg
 [linkedin]: https://www.linkedin.com/in/serhat-gundogdu/
 
+<details>
+<summary>Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=serhatgundogdu&theme=radical" >
+</details>
+
